@@ -1,0 +1,30 @@
+.row{
+    margin-top: 20px;
+}
+
+.form{
+    margin: 20px auto;
+    width: 40%;
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  form{
+    margin: 5px auto;
+    width: 90%;
+  }
+  .buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+  }
+
+  .form-btn1{
+    margin-right: 5px;
+  }
+
+  .form-btn2{
+    margin-left: 5px;
+  }
